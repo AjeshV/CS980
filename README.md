@@ -1,1 +1,1 @@
-# CS980
+# CS980 Advanced Machine Learning
